@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Melody
 
 Welcome to my GitHub portfolio, here is a collection of hands on labs, study notes, and practical exercises I’ve completed whilst training in IT Support and Cybersecurity.
-## 🖥️ Systems I have worked with
 
+## 🖥️ Systems I have worked with
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)---
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 🎯 What I’ve Been Learning & Practising
 
