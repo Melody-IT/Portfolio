@@ -1,0 +1,24 @@
+# 🧪 Labs Folder
+
+This folder contains screenshots and summaries of my hands-on labs completed during CompTIA A+ training.
+## 💻 CompTIA Labs Showcase
+
+Below are screenshots from various CompTIA labs I completed as part of my learning:
+
+### 📡 Network Topology & Analysis
+- ![Ethernet Switch Topology](labs/lab-ethernet-switch-topology.jpeg)
+- ![Wireshark Packet Capture](labs/lab-wireshark-packet-capture.jpeg)
+- ![ARP Reply Frame](labs/lab-arp-reply-frame.jpeg)
+
+### 🌐 IP & Network Configuration
+- ![IP Configuration Report](labs/lab-ip-config-report.jpeg)
+- ![Ping Results from Terminal](labs/lab-network-ping-stats.jpeg)
+- ![SOHO Router Ping Test](labs/lab-network-scenario-ping-results.jpeg)
+
+### 📶 Wireless & Printer Labs
+- ![Wireless Network Analysis](labs/lab-wireless-network-analysis.jpeg)
+- ![Printer Toner Replacement](labs/lab-printer-toner-replacement.jpeg)
+- ![Windows Printer Status](labs/lab-windows-printer-status.jpeg)
+
+### 📝 Exam-style Lab Questions
+- ![CompTIA Lab Quiz Completion](labs/lab-compTIA-exam-quiz-results.jpeg)
